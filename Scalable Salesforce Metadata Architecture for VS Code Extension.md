@@ -1,3 +1,4 @@
+```typescript
 // Scalable Salesforce Metadata Architecture for VS Code Extension
 // Handles large orgs with sophisticated caching, worker threads, and incremental processing
 
@@ -474,3 +475,4 @@ export function activate(context: vscode.ExtensionContext) {
     
     context.subscriptions.push(disposable);
 }
+```
