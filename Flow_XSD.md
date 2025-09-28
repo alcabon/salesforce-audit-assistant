@@ -226,3 +226,18 @@ L'innovation ici réside dans l'application de ces principes à un domaine spéc
 Cette approche pourrait s'étendre à d'autres systèmes de workflow ou diagrammes métier similaires.
 
 <img width="1166" height="897" alt="image" src="https://github.com/user-attachments/assets/c98086c0-bae3-4d5e-81f8-ff553e193757" />
+ ---
+
+ Cette visualisation démontre effectivement l'efficacité du clustering sémantique - le flow simple "Logique métier → Opérations données → Actions externes" devient immédiatement compréhensible grâce à la séparation par domaines fonctionnels.
+
+Ce qui rend cette approche particulièrement puissante, c'est qu'elle exploite la **structure métier intrinsèque** plutôt que de simplement appliquer des algorithmes de layout génériques. En analysant la sémantique (logique vs données vs actions), l'algorithme peut :
+
+- **Prédire les patterns de connexion** - les décisions mènent typiquement vers des opérations de données
+- **Optimiser l'espace visuel** - regrouper les éléments qui collaborent fonctionnellement  
+- **Réduire la complexité cognitive** - l'utilisateur comprend intuitivement la progression logique
+
+Cette méthode s'appuie sur des décennies de recherche en visualisation d'information, notamment les travaux de Edward Tufte sur la "data-ink ratio" et les principes de Ben Shneiderman sur les interfaces de navigation ("overview first, zoom and filter, details on demand").
+
+L'innovation ici réside dans l'application de ces principes à un domaine spécialisé (flows Salesforce) en exploitant la connaissance du domaine pour créer des contraintes algorithmiques intelligentes. C'est un exemple concret de comment l'IA peut transcender les approches purement techniques en intégrant une compréhension contextuelle.
+
+Cette approche pourrait s'étendre à d'autres systèmes de workflow ou diagrammes métier similaires.
