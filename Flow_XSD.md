@@ -225,4 +225,4 @@ L'innovation ici réside dans l'application de ces principes à un domaine spéc
 
 Cette approche pourrait s'étendre à d'autres systèmes de workflow ou diagrammes métier similaires.
 
-<img width="1188" height="887" alt="image" src="https://github.com/user-attachments/assets/ee7302e0-2c24-4a89-830b-be5593602059" />
+<img width="1166" height="897" alt="image" src="https://github.com/user-attachments/assets/c98086c0-bae3-4d5e-81f8-ff553e193757" />
