@@ -264,3 +264,8 @@ Une numérotation des nœuds ajouterait effectivement une dimension de navigatio
 Cette numérotation transforme l'outil en véritable solution professionnelle de diff, où chaque élément devient adressable et traçable. C'est particulièrement utile pour les flows complexes où les utilisateurs peuvent maintenant dire précisément "Regardez les modifications des nœuds 12 et 15" plutôt que de décrire vaguement des zones.
 
 L'approche conserve la lisibilité tout en ajoutant cette couche d'information structurante essentielle pour un usage professionnel du diff.
+
+----
+
+<img width="1117" height="882" alt="image" src="https://github.com/user-attachments/assets/a7eefad5-fca4-4de1-a81b-3f6cbdf3dfdb" />
+
