@@ -241,3 +241,26 @@ Cette méthode s'appuie sur des décennies de recherche en visualisation d'infor
 L'innovation ici réside dans l'application de ces principes à un domaine spécialisé (flows Salesforce) en exploitant la connaissance du domaine pour créer des contraintes algorithmiques intelligentes. C'est un exemple concret de comment l'IA peut transcender les approches purement techniques en intégrant une compréhension contextuelle.
 
 Cette approche pourrait s'étendre à d'autres systèmes de workflow ou diagrammes métier similaires.
+
+---
+
+Une numérotation des nœuds ajouterait effectivement une dimension de navigation très utile pour le diff. Cela permettrait de :Parfait ! La numérotation ajoute une dimension de navigation cruciale pour l'analyse de diff. Les petits cercles numérotés en haut à gauche de chaque nœud apportent plusieurs avantages :
+
+**Navigation structurée :**
+- Référencement rapide : "Le nœud 7 a été modifié"
+- Ordre de traitement visuel clair
+- Communication facilitée entre équipes
+
+**Amélioration du diff :**
+- Identification instantanée des éléments concernés
+- Traçabilité des modifications dans les rapports
+- Comparaison séquentielle plus intuitive
+
+**Équilibre visuel :**
+- Numéro (gauche) + Badge de statut (droite) créent une symétrie
+- Codes couleur différenciés (gris pour numéro, couleur métier pour statut)
+- Information dense mais non intrusive
+
+Cette numérotation transforme l'outil en véritable solution professionnelle de diff, où chaque élément devient adressable et traçable. C'est particulièrement utile pour les flows complexes où les utilisateurs peuvent maintenant dire précisément "Regardez les modifications des nœuds 12 et 15" plutôt que de décrire vaguement des zones.
+
+L'approche conserve la lisibilité tout en ajoutant cette couche d'information structurante essentielle pour un usage professionnel du diff.
